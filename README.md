@@ -24,12 +24,12 @@ print the characters and its huffmancode.
  
 ## Program:
 ```
-Developed by : SUNIL KUMAR T
-Register no  : 212223240164
+Developed by : THARUN D
+Register no  : 212223240167
 ```
 ``` Python
 # Get the input String
-string ="Sunil Kumar T"
+string ="THARUN"
 
 # Create tree nodes
 class NodeTree(object):
